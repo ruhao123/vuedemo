@@ -21,11 +21,6 @@ export default defineComponent({
   name: 'Home',
   components: {
     HelloWorld
-
-
-
-
-    
   }
 })
 </script>
